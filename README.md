@@ -7,7 +7,7 @@ Gereksiz şişkinlik yok, kullanıcıyı aptal yerine koyan varsayılanlar yok.
 > Hedef: Hızlı, kararlı ve geliştirici dostu bir sistem.
 
 🌐 Resmi Kurulum Sayfası:  
-👉 https://github.com/DarkMorpheus-pc/BlazeOS.com.tr
+👉 https://github.com/DarkMorpheus-pc/Blaze-Linux
 
 ---
 
@@ -40,7 +40,7 @@ Gereksiz şişkinlik yok, kullanıcıyı aptal yerine koyan varsayılanlar yok.
 ### 1️⃣ ISO Dosyasını İndir
 ISO dosyasını **resmi GitHub Pages kurulum sayfasından** indir:
 
-👉 https://github.com/DarkMorpheus-pc/BlazeOS.com.tr
+👉 https://github.com/DarkMorpheus-pc/Blaze-Linux
 
 > ⚠️ ISO dosyasını üçüncü parti sitelerden indirme. Güvenlik senin sorumluluğun.
 
